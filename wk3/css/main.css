@@ -4,8 +4,8 @@ nav ul {
 nav li {
 	display: inline;
 }
-
 progress[value] {
 	width: 250px;
 	height: 5px;
+	vertical-align: middle;
 }
